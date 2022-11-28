@@ -19,7 +19,6 @@ I love Competitive Programming and am always looking to learn something new!
 
 - 📫 How to reach me **abhis6102003@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
