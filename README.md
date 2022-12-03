@@ -40,4 +40,4 @@ I love Competitive Programming and am always looking to learn something new!
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=abhijeetsingh610&show_icons=true&theme=material-palenight&layout=compact)
 
 
-![Snake animation](https://github.com/abhijeetsingh610/abhijeetsingh610/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Abhijeetsingh610/Abhijeetsingh610/blob/output/github-contribution-grid-snake.svg)
