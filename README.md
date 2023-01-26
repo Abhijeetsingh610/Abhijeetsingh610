@@ -11,7 +11,7 @@ I love Competitive Programming and am always looking to learn something new!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetsingh610&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetsingh610" /> </p>
 
-- 🚀 I’m currently learning **Backend**
+- 🚀 I’m currently learning **JAVA**
 
 - 👨My Hobbies are **Cubing , Reading and Travelling**
 
