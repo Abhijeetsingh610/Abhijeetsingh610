@@ -3,7 +3,6 @@
 
 ### Glad to see you here! &nbsp; 
 
-
 I am a student at [MIT World Peace University](https://mitwpu.edu.in/admissions), Pune, India and Currently doing B. Tech in Computer Science Engineering. 
 I love Competitive Programming and am always looking to learn something new!
 
