@@ -42,5 +42,3 @@ I love Competitive Programming and am always looking to learn something new!
 
 ![Snake animation](https://github.com/Abhijeetsingh610/Abhijeetsingh610/blob/output/github-contribution-grid-snake.svg)
 
-
-[![An image of @abhijeetsingh610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetsingh610)](https://holopin.io/@abhijeetsingh610)
