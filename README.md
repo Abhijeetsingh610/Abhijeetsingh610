@@ -41,3 +41,6 @@ I love Competitive Programming and am always looking to learn something new!
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=abhijeetsingh610&show_icons=true&theme=material-palenight&layout=compact)
 
 ![Snake animation](https://github.com/Abhijeetsingh610/Abhijeetsingh610/blob/output/github-contribution-grid-snake.svg)
+
+
+[![An image of @abhijeetsingh610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetsingh610)](https://holopin.io/@abhijeetsingh610)
