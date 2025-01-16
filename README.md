@@ -40,5 +40,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetsingh610&show_icons=true&locale=en&layout=compact" alt="abhijeetsingh610" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetsingh610&show_icons=true&locale=en" alt="abhijeetsingh610" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetsingh610&" alt="abhijeetsingh610" /></p>
