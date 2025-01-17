@@ -25,6 +25,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Algorithms Cheat Sheet for Data Scientists](https://medium.com/@Abhijeet__singh/machine-learning-algorithms-cheat-sheet-for-data-scientists-abb5eaeb7843?source=rss-dee2f7b754c3------2)
+- [Mastering Machine Learning: The Ultimate Beginner’s Roadmap](https://medium.com/@Abhijeet__singh/mastering-machine-learning-the-ultimate-beginners-roadmap-7d67e63098c1?source=rss-dee2f7b754c3------2)
+- [Introduction to Machine Learning with Python.](https://medium.com/@Abhijeet__singh/introduction-to-machine-learning-with-python-3c17a68d6e89?source=rss-dee2f7b754c3------2)
+- [Training an AI to Master the Snake Game with Reinforcement Learning](https://medium.com/@Abhijeet__singh/training-an-ai-to-master-the-snake-game-with-reinforcement-learning-eeb965205883?source=rss-dee2f7b754c3------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
